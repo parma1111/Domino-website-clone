@@ -2,7 +2,7 @@
 Hello, My name is Parma Ram. This blog is all about my project. I have made this website individual.
 
 Technologies used:
-In making this project, we used Html, Css, advanced JavaScript, React, Redux, Context API, Chakra UI and local storage.
+In making this project, I used Html, Css, advanced JavaScript, React, Redux, Context API, Chakra UI and local storage.
 
 Home Page:
 In landing page there is one beautiful navbar and sidebar. sliding images are moving continuously. There is one footer section also.
