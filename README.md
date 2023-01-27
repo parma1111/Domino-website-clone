@@ -3,8 +3,7 @@
 Hello, My name is Parma Ram. This blog is all about my project. I have made this website individual.
 
 
-#Technologies used:
-In making this project, I used Html, Css, advanced JavaScript, React, Redux, Context API, Chakra UI and local storage.
+#Technologies used:In making this project, I used Html, Css, advanced JavaScript, React, Redux, Context API, Chakra UI and local storage.
 
 
 #Home Page:
