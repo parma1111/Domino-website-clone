@@ -1,14 +1,14 @@
 <h1>Clone of Domino's website</h1>
 Hello, My name is Parma Ram. This blog is all about my project. I have made this website individual.
 
-Technologies used:
+#Technologies used:
 In making this project, I used Html, Css, advanced JavaScript, React, Redux, Context API, Chakra UI and local storage.
 
-Home Page:
+#Home Page:
 In landing page there is one beautiful navbar and sidebar. sliding images are moving continuously. There is one footer section also.
 
 
-Login page
+#Login page
 From here, user can login by entering valid mobile number and one OTP will be generated which user will have to fill correctly and accordingly his number will be updated on navbar section.
 
 Menu Page:
